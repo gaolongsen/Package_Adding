@@ -1,9 +1,11 @@
 Barrett Model Modified Version
 =============
 
-In this model, we transfer the world frame to the center of the bottom of the base link. 
+**We change this directory a lot and adjust so many parameters based on our measurement from Solid works and manufacture from Barrett Company based on JHU Team created for WAM model. Thanks again for the contribution of JHU Team built up!**
 
-This repository contains Barrett WAM & BHand-280 CAD and modular URDFs with inertial properties.
+> ***In this model, we delete the world fixed joint and transfer the world frame to the center of the bottom of the base link.*** 
+
+This repository contains Barrett WAM & BHand-282 CAD and modular URDFs with inertial properties.
 
 The meshes and kinematics are based on publicly available resources from barrett.com. The dynamic properties are based on guidance from barrett.com as well as experiences with a real WAM and BH8-282.
 

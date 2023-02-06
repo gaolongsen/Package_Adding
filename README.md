@@ -47,7 +47,7 @@ The meshes used for collsion are sets of convex meshes processed manually in Ble
 
 1. Go to your python package directory (../python3.x/site-packages/rtbdata/xacro/wam_description)
 2. Create an empty file "**barrett_model**"
-3. In **barrett_model** file, open the terminal and input `git clone https://github.com/gaolongsen/Package_Adding.git`
+3. In **barrett_model** file, open the terminal and input `git clone https://github.com/gaolongsen/Package_Adding_WAM.git`
 4. Go to the "*py_file/URDF*", move the **WAM.py** file to the directory of "*python3.x/site-packages/roboticstoolbox/models/URDF*"
 5. Open the __init.py__ and add `from roboticstoolbox.models.URDF.WAM import WAM`
 6. Delete py_file directory
